@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+# If the dataset is large, keep it local and ignore it; comment this line out if you want it tracked.
+data/*.csv
+
+# Outputs
+reports/
+*.pdf
+
+# Misc
+*.log
