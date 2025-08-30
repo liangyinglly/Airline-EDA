@@ -10,8 +10,7 @@ airline-eda/
 ├─ notebooks/
 │  └─ exploratory_data_analysis.ipynb
 ├─ data/
-│  └─ airline_dataset            
-├─ reports/             
+│  └─ airline_dataset                        
 ├─ README.md
 └─ .gitignore
 ```
